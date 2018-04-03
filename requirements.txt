@@ -1,0 +1,5 @@
+gitdb2==2.0.3
+GitPython==2.1.9
+jieba==0.39
+smmap2==2.0.3
+xlrd==1.1.0
