@@ -22,7 +22,7 @@
 #### 匯入query.txt
 #### 判斷是否為中文 & 兩字or三字
 #### 找出相對應的set
-#### 判斷Booleab
+#### 判斷Boolean
 * and：set1 & set2
 * or： set1 | set2
 * not set1 - set2
