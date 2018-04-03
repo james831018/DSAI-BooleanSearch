@@ -3,9 +3,9 @@
 
 
 ## 斷詞：
- ### 下載繁體斷詞的dictionary(2-gram and 3-gram)
- ### 把query裡面要搜尋的字加到dict裡面
-### 把source.csv裡的文章經過jieba斷詞系統根據剛下載的dict斷詞
+#### 下載繁體斷詞的dictionary(2-gram and 3-gram)
+#### 把query裡面要搜尋的字加到dict裡面
+#### 把source.csv裡的文章經過jieba斷詞系統根據剛下載的dict斷詞
 * 判斷中文or英文
 * 判斷是兩字或三字的
 ### 再把剛剛所有的斷詞分開，在做一次jieba斷詞
